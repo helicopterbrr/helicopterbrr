@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 A space for code, experiments, and useful resources.
 
-Hon, hon, hon baguette 🥖
+*Hon, hon, hon baguette* 🥖
 
 ---
 
